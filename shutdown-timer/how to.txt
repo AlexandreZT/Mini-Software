@@ -1,0 +1,5 @@
+using tkinter a GUI framework for python
+using cmd command into python with the os librairy
+convert code to app 	=> pip install auto-py-to-exe
+		 	=> auto-py-to-exe my_python_code.py
+			=> /dist/my_python_code.exe
