@@ -1,2 +1,2 @@
 # MiniSoftware
-Petit repo pour créer de petits logiciel en GUI
+Petit repo pour créer de petits logiciels
